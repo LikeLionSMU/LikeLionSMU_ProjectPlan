@@ -8,4 +8,27 @@
 
   ---
 
-  
+  # 아이디어 목록
+
+  [MASTERKEY - 고진권](https://github.com/LikeLionSMU/ProjectPlan/blob/master/MASTER%20KEY-%EA%B3%A0%EC%A7%84%EA%B6%8C.pdf)
+
+  [방해금지앱 - 양유림](https://github.com/LikeLionSMU/ProjectPlan/blob/master/%EB%B0%A9%ED%95%B4%EA%B8%88%EC%A7%80%EC%95%B1-%EC%96%91%EC%9C%A0%EB%A6%BC.pdf)
+
+  [빈 강의실 찾기 어플 - 조성윤](https://github.com/LikeLionSMU/ProjectPlan/blob/master/%EB%B0%A9%ED%95%B4%EA%B8%88%EC%A7%80%EC%95%B1-%EC%96%91%EC%9C%A0%EB%A6%BC.pdf)
+
+  [시간표 매칭 앱 - 신현정](https://github.com/LikeLionSMU/ProjectPlan/blob/master/%EC%8B%9C%EA%B0%84%ED%91%9C%EB%A7%A4%EC%B9%AD%EC%95%B1-%EC%8B%A0%ED%98%84%EC%A0%95.pdf)
+
+  [여기다(여행갈 기회는 다시오지 않는다) -  조대영](https://github.com/LikeLionSMU/ProjectPlan/blob/master/%EC%97%AC%EA%B8%B0%EB%8B%A4-%EC%A1%B0%EB%8C%80%EC%98%81.pdf)
+
+  [맞춤 영양제 추천 앱 - 문지해](https://github.com/LikeLionSMU/ProjectPlan/blob/master/%EC%98%81%EC%96%91%EC%A0%9C%20%EC%B6%94%EC%B2%9C%20%EC%95%B1-%EB%AC%B8%EC%A7%80%ED%95%B4pdf.pdf)
+
+  [오늘의날씨는?(지역 날씨 공유 앱) - 최훈아](https://github.com/LikeLionSMU/ProjectPlan/blob/master/%EC%98%A4%EB%8A%98%EB%82%A0%EC%94%A8%EB%8A%94%3F-%EC%B5%9C%ED%9B%88%EC%95%84.pdf)
+
+  [컴퓨터 자가 진단 앱, 2018 월드컵 거리 응원 알리미 - 박성준](https://github.com/LikeLionSMU/ProjectPlan/blob/master/%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%A0%EC%9E%A5%EC%95%8C%EB%A6%BC%EC%95%B1%2C%EC%9B%94%EB%93%9C%EC%BB%B5%EA%B1%B0%EB%A6%AC%EC%9D%91%EC%9B%90%EC%95%88%EB%82%B4%EC%95%B1-%EB%B0%95%EC%84%B1%EC%A4%80.pdf)
+
+  [포트폴리오 웹사이트(학자금 대출자를 위한) - 홍영표](https://github.com/LikeLionSMU/ProjectPlan/blob/master/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8(%ED%95%99%EC%9E%90%EA%B8%88%EB%8C%80%EC%B6%9C%EC%9E%90%EB%A5%BC%EC%9C%84%ED%95%9C)-%ED%99%8D%EC%98%81%ED%91%9C.pdf)
+
+---
+
+## 다들 관심있게 읽어주시고 다음주 목요일 (5/24)일까지 꼭 질문과 토론할 준비를 하고 와주세요 :)
+
