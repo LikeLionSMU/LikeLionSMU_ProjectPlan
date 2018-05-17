@@ -14,7 +14,7 @@
 
   [방해금지앱 - 양유림](https://github.com/LikeLionSMU/ProjectPlan/blob/master/%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%ED%86%A4%20%EC%98%88%EB%B9%84%20%EA%B8%B0%ED%9A%8D%EC%95%88/%EB%B0%A9%ED%95%B4%EA%B8%88%EC%A7%80%EC%95%B1-%EC%96%91%EC%9C%A0%EB%A6%BC.pdf)
 
-  [빈 강의실 찾기 어플 - 조성윤](https://github.com/LikeLionSMU/ProjectPlan/blob/master/%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%ED%86%A4%20%EC%98%88%EB%B9%84%20%EA%B8%B0%ED%9A%8D%EC%95%88/%EB%B9%88%EA%B0%95%EC%9D%98%EC%8B%A4%EC%B0%BE%EA%B8%B0%EC%95%B1-%EC%A1%B0%EC%84%B1%EC%9C%A4.pdf
+  [빈 강의실 찾기 어플 - 조성윤](https://github.com/LikeLionSMU/ProjectPlan/blob/master/%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%ED%86%A4%20%EC%98%88%EB%B9%84%20%EA%B8%B0%ED%9A%8D%EC%95%88/%EB%B9%88%EA%B0%95%EC%9D%98%EC%8B%A4%EC%B0%BE%EA%B8%B0%EC%95%B1-%EC%A1%B0%EC%84%B1%EC%9C%A4.pdf)
 
   [시간표 매칭 앱 - 신현정](https://github.com/LikeLionSMU/ProjectPlan/blob/master/%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%ED%86%A4%20%EC%98%88%EB%B9%84%20%EA%B8%B0%ED%9A%8D%EC%95%88/%EC%8B%9C%EA%B0%84%ED%91%9C%EB%A7%A4%EC%B9%AD%EC%95%B1-%EC%8B%A0%ED%98%84%EC%A0%95.pdf)
 
