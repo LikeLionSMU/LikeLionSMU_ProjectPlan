@@ -29,6 +29,12 @@
   [포트폴리오 웹사이트(학자금 대출자를 위한) - 홍영표](https://github.com/LikeLionSMU/ProjectPlan/blob/master/%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%ED%86%A4%20%EC%98%88%EB%B9%84%20%EA%B8%B0%ED%9A%8D%EC%95%88/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8(%ED%95%99%EC%9E%90%EA%B8%88%EB%8C%80%EC%B6%9C%EC%9E%90%EB%A5%BC%EC%9C%84%ED%95%9C)-%ED%99%8D%EC%98%81%ED%91%9C.pdf)
 
 ---
+* 추가 기획
+  [맛집찾아가서 돈벌기 - 김동규](https://github.com/LikeLionSMU/ProjectPlan/blob/master/%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%ED%86%A4%20%EC%98%88%EB%B9%84%20%EA%B8%B0%ED%9A%8D%EC%95%88/%EB%A7%9B%EC%A7%91%EC%B0%BE%EC%95%84%EA%B0%80%EC%84%9C%20%EB%8F%88%EB%B2%8C%EA%B8%B0-%EA%B9%80%EB%8F%99%EA%B7%9C.pdf)
+  
+   [자취생을 위한 자동 주문 시스템 - 박세훈](https://github.com/LikeLionSMU/ProjectPlan/blob/master/%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%ED%86%A4%20%EC%98%88%EB%B9%84%20%EA%B8%B0%ED%9A%8D%EC%95%88/%EC%9E%90%EC%B7%A8%EC%83%9D%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%9E%90%EB%8F%99%20%EC%A3%BC%EB%AC%B8%20%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%B0%95%EC%84%B8%ED%9B%88.pdf)
+
+---
 
 ## 다들 관심있게 읽어주시고 다음주 목요일 (5/24)일까지 꼭 질문과 토론할 준비를 하고 와주세요 :)
 
